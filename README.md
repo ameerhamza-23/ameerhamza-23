@@ -27,18 +27,3 @@
 **Observability**  
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-
-### 📌 Selected work
-
-- **[auth0-iac](https://github.com/ameerhamza-23/auth0-iac)**: Auth0 tenant managed as code with Terraform
-- **[timeoff-service](https://github.com/ameerhamza-23/timeoff-service)**: time-off service in TypeScript
-- **[store-explorer](https://github.com/ameerhamza-23/store-explorer)**: store browsing app in TypeScript
-- **[rabbitmq-with-go](https://github.com/ameerhamza-23/rabbitmq-with-go)**: message queue patterns in Go
-- **[nvim-config](https://github.com/ameerhamza-23/nvim-config)**: my Neovim setup
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ameerhamza-23&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamza-23&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</p>
